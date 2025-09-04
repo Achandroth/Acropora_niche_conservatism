@@ -1,0 +1,1 @@
+This repository contains the dataset used for the research on Acropora corals from the Caribbean. The work deals with niche divergence and niche conservatism among closely related species and within species across different populations
